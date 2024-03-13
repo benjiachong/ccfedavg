@@ -48,7 +48,7 @@ For example:
 >python -u  main_fed.py --model cnn --global_round 400 --dataset cifar --iidpart 0 --step_in_round 100 --local_bs 64 --frac 1 --num_users 8 --num_classes 10 --lr 0.01 --gpu 7 --method 0 --alg=2
 >
 
-##Cite
+## Cite
 
 @article{zhang2023cc,
   title={Cc-fedavg: Computationally customized federated averaging},
