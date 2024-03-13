@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="zhh@39.98.86.104:60002 password">
+    <serverData>
+      <paths name="zhh@172.17.252.174:60000 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhh/code/federated-learning-master" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhh@39.98.86.104:60002 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhh/code/federated-learning-master2/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhh@39.98.86.104:60003 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhh/code/federated-learning-master2" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
